@@ -41,6 +41,7 @@ These scripts were part of a broader educational initiative to help engineers tr
 If you're interested in BIM Automation or have questions about the Revit API, let's connect:
 * [LinkedIn](https://linkedin.com/in/agaabdelgawad)
 * [YouTube Channel](https://youtube.com/c/AhmedGamalAbdelGawad)
+* [GitHub Profile](https://github.com/agaabdelgawad)
 
 ---
 *If you find these scripts helpful for your learning journey, feel free to give this repo a ⭐!*
