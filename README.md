@@ -1,9 +1,46 @@
-# AGA-BIMarabia
-Projects made for "Introduction to Revit API using C#" workshop that was held in Cooperation with BIMarabia.
+# AGA-BIMarabia 🏗️
 
-### Copyrights
-These projects copyrights is for Ahmed Gamal Abdel Gawad.\
-LinkedIn: https://www.linkedin.com/in/aGaabdelgawad/ \
-Lectures: https://www.youtube.com/playlist?list=PLgmra2bOLNrdY-dJseru1pByMc4ye5xSo \
-The Projects made for Introduction to Revit API using C# workshop.\
-The workshop was held in Cooperation with BIMarabia.
+[![Revit API](https://img.shields.io/badge/Revit%20API-2020%2B-blue.svg)](https://www.autodesk.com/developer/autodesk-adn/revit)
+[![Language](https://img.shields.io/badge/Language-C%23-green.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Course Playlist](https://img.shields.io/badge/YouTube-Playlist-ff0000.svg)](https://www.youtube.com/playlist?list=PLgmra2bOLNrdY-dJseru1pByMc4ye5xSo)
+
+### 📝 Description
+A collection of C# scripts and utilities developed for the **BIMarabia community** teaching sessions. These tools are designed to demonstrate the power of the **Revit API** in automating architectural and engineering workflows, bridging the gap between manual modeling and computational efficiency.
+
+---
+
+### 📺 Course Content & Lectures
+This repository serves as the official source code for the **Revit API Programming Course** available on YouTube. You can follow the full video series here:
+👉 **[Watch the Revit API Playlist on YouTube](https://www.youtube.com/playlist?list=PLgmra2bOLNrdY-dJseru1pByMc4ye5xSo)**
+
+---
+
+### ✨ Key Features & Tools
+* **Element Automation:** Scripts to automate repetitive modeling tasks within Revit.
+* **Data Extraction:** Tools for pulling parameters and data from BIM models for external analysis.
+* **Parameter Management:** Utilities to batch-update and manage Revit parameters.
+* **Custom UI:** Demonstration of basic Ribbon and Dockable Pane integrations.
+
+### 💻 Tech Stack
+* **Language:** C#
+* **Framework:** .NET Framework 4.7/4.8 (Targeting Revit Versions)
+* **API:** Autodesk Revit API
+
+### 🚀 Getting Started
+1.  Clone the repository.
+2.  Open the solution in **Visual Studio**.
+3.  Ensure Revit API references (`RevitAPI.dll` and `RevitAPIUI.dll`) are correctly linked to your Revit installation path.
+4.  Build the project to generate the `.addin` and `.dll` files.
+
+### 📚 Learning Context
+These scripts were part of a broader educational initiative to help engineers transition into **AEC Informatics**. They prioritize **code readability** and **SOLID principles** to serve as a solid foundation for beginners in BIM Software Development.
+
+---
+
+### 🤝 Connect with Me
+If you're interested in BIM Automation or have questions about the Revit API, let's connect:
+* [LinkedIn](https://linkedin.com/in/agaabdelgawad)
+* [YouTube Channel](https://youtube.com/c/AhmedGamalAbdelGawad)
+
+---
+*If you find these scripts helpful for your learning journey, feel free to give this repo a ⭐!*
